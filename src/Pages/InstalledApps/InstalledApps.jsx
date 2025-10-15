@@ -95,9 +95,9 @@ const InstalledApps = () => {
           </div>
         </div>
       )}
+      
     </div>
   );
 };
 
 export default InstalledApps;
-//
