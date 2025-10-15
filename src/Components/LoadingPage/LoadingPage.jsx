@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 
 const LoadingPage = () => {
-  // Animation variants for the slogan text
+ 
   const textVariants = {
     hidden: { opacity: 0, y: 20 },
     visible: (i) => ({
@@ -15,7 +15,7 @@ const LoadingPage = () => {
     }),
   };
 
-  // Animation for the loading dots
+
   const dotVariants = {
     animate: {
       scale: [1, 1.5, 1],
@@ -83,20 +83,9 @@ const LoadingPage = () => {
           ))}
         </motion.div>
 
-        {/* Subtitle */}
-
-        <motion.p
-          className="text-gray-300 mt-6 text-3xl"
-          initial={{ opacity: 0 }}
-          animate={{ opacity: 1 }}
-          transition={{ delay: 1, duration: 0.8 }}
-        >
-         If you’re in a hurry, take care — we’ll be here waiting when you return.
-        </motion.p>
       </div>
     </div>
   ); 
 };
 
 export default LoadingPage;
-//
