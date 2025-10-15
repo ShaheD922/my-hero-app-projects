@@ -37,21 +37,26 @@ const AllApps = () => {
       {loading ? (
         <LoadingPage />
       ) : (
+        
         <div>
           <h1 className="text-6xl font-bold py-5">Our All Applications</h1>
           <p className="text-gray-500">
             Explore All Apps on the Market developed by us. We code for Millions
           </p>
+
+
           <div className="w-full flex justify-between text-black pt-7">
             <p className="font-semibold text-xl">
               ({searchedApps.length}) Apps Found
             </p>
 
-            {/* Search Field start */}
+
+            {/* search start */}
             <div className="join">
               <div>
                 <label className="input validator join-item">
                   <input
+
                     defaultValue={search}
                     onChange={(e) => setSearch(e.target.value)}
                     type="search"
@@ -59,13 +64,18 @@ const AllApps = () => {
                     required
                   />
                 </label>
+
+
               </div>
+
               <button className="btn btn-accent text-white join-item">
                 Search
               </button>
+
             </div>
-            {/* Search field end */}
+
           </div>
+
           {searchedApps.length === 0 ? (
             <h1 className="text-7xl font-bold text-gray-500 py-20">
               No Apps Found!
