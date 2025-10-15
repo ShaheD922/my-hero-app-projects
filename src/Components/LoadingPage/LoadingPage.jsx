@@ -38,25 +38,26 @@ const LoadingPage = () => {
             variants={textVariants}
             custom={0}
           >
-            ডাটা
+            Wait
           </motion.h1>
           <motion.h1
             className="text-4xl md:text-6xl font-bold text-white mb-4"
             variants={textVariants}
             custom={1}
           >
-            আইতাছে
+          Data is
           </motion.h1>
           <motion.h1
             className="text-4xl md:text-6xl font-bold text-white"
             variants={textVariants}
             custom={2}
           >
-            খারান
+            Coming
           </motion.h1>
         </motion.div>
 
         {/* Loading Indicator */}
+
         <motion.div
           className="flex justify-center space-x-2 mt-8"
           initial="hidden"
@@ -83,17 +84,19 @@ const LoadingPage = () => {
         </motion.div>
 
         {/* Subtitle */}
+
         <motion.p
           className="text-gray-300 mt-6 text-3xl"
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
           transition={{ delay: 1, duration: 0.8 }}
         >
-          তাড়াহুড়া হইলে বাইরইয়া জান
+         If you’re in a hurry, take care — we’ll be here waiting when you return.
         </motion.p>
       </div>
     </div>
-  );
+  ); 
 };
 
 export default LoadingPage;
+//
