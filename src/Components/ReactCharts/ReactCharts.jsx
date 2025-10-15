@@ -40,8 +40,7 @@ const ReactCharts = ({ ratings, description }) => {
           />
         </BarChart>
       </ResponsiveContainer>
-
-      {/* Show description pera by pera  */}
+   
       <div>
         <p className="text-start font-bold text-2xl">Description</p>
         <div className="space-y-5 text-gray-700 leading-relaxed mt-4 text-justify">
@@ -62,3 +61,4 @@ const ReactCharts = ({ ratings, description }) => {
 };
 
 export default ReactCharts;
+//
