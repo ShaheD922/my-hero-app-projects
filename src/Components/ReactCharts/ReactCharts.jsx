@@ -14,8 +14,10 @@ const ReactCharts = ({ ratings, description }) => {
       name: r.name,
       count: r.count,
     })) || [];
+
+
   return (
-    <div className="w-full   rounded-2xl p-4">
+    <div className="w-full rounded-2xl p-4">
       <ResponsiveContainer width="100%" height={400}>
         <BarChart
           layout="vertical"
@@ -27,6 +29,8 @@ const ReactCharts = ({ ratings, description }) => {
             bottom: 20,
           }}
         >
+
+
           <CartesianGrid strokeDasharray="3 3" stroke="#e5e7eb" />
           <XAxis type="number" tick={{ fontSize: 14 }} />
           <YAxis dataKey="name" type="category" tick={{ fontSize: 14 }} />
@@ -42,6 +46,8 @@ const ReactCharts = ({ ratings, description }) => {
       </ResponsiveContainer>
    
       <div>
+
+        
         <p className="text-start font-bold text-2xl">Description</p>
         <div className="space-y-5 text-gray-700 leading-relaxed mt-4 text-justify">
           {description
@@ -61,4 +67,3 @@ const ReactCharts = ({ ratings, description }) => {
 };
 
 export default ReactCharts;
-//
