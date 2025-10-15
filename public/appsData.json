@@ -1,0 +1,362 @@
+[
+  {
+    "image": "https://i.ibb.co.com/bq1gBQw/img13.jpg",
+    "title": "Music Player",
+    "companyName": "Gan Bangla",
+    "id": 1,
+    "description":"The Music Player is a cornerstone of modern technology, serving as the essential interface that retrieves, decodes, and renders stored audio into audible sound, representing a culmination of continuous innovation from the mechanical phonograph to today's streaming software. Its evolution saw key shifts from the phonograph's foil cylinders to the durable vinyl of the **gramophone**, followed by the revolutionary **Compact Cassette** and the personalized listening experience introduced by the **Sony Walkman** in 1979. The transition to the digital age brought the **Compact Disc (CD)** for high-fidelity playback and the highly compressed **MP3** format, which, combined with flash memory, led to the dedicated **Apple iPod**. Today, the music player primarily exists as a sophisticated application on a multi-purpose **smartphone**, performing the core functions of **retrieval**, digital-to-analog **decoding** (via the DAC), **amplification**, and **transduction** (via speakers or headphones). Modern players are packed with features like advanced **Library Management**, customizable **Equalizers (EQ)**, support for **Lossless and Hi-Res Audio**, and integral **Streaming Integration** that uses AI for personalized recommendations. Culturally, the music player has solidified music as a **personal soundtrack** and established the **playlist** as the dominant consumption format, while driving contemporary trends like **Spatial Audio** and the renewed interest in high-fidelity equipment like dedicated **Digital Audio Players (DAPs)**, ensuring its continued relevance as the primary gateway to the emotional power of sound.",
+    "size": 42,
+    "reviews": 1445,
+    "ratingAvg": 4.5,
+    "downloads": 52200,
+    "ratings": [
+      { "name": "1 star", "count": 45 },
+      { "name": "2 star", "count": 90 },
+      { "name": "3 star", "count": 210 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 600 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/j9FvRCTL/img14.jpg",
+    "title": "ChatGPT",
+    "companyName": "Pixel Dynamics",
+    "id": 2,
+    "description": "TaskFlow represents the pinnacle of modern task management solutions, meticulously engineered to transform how individuals and teams approach productivity in today's fast-paced digital landscape. This comprehensive application goes far beyond basic to-do lists, offering an intelligent ecosystem that adapts to your unique workflow while anticipating your needs through cutting-edge artificial intelligence. At its core, TaskFlow features an intuitive kanban-style interface that allows users to visualize their workflow across multiple customizable columns, making it perfect for everything from personal goal tracking to complex team projects. The AI-powered reminder system doesn't simply notify you about deadlines; it analyzes your working patterns, identifies optimal times for specific tasks, and suggests proactive adjustments to ensure you maintain peak productivity without burnout. Collaboration features are seamlessly integrated, allowing real-time editing, commenting, and file sharing that eliminates version control issues and streamlines communication. Advanced filtering and sorting capabilities let you organize tasks by priority, due date, project, or custom tags, while the smart search function can locate specific tasks across all your projects instantly. The application's analytics dashboard provides deep insights into your productivity trends, highlighting areas for improvement and celebrating your achievements. Integration capabilities extend to over 50 popular tools including Google Calendar, Slack, Microsoft Teams, and Dropbox, creating a centralized hub for all your work. Custom automation workflows can be created using a simple drag-and-drop interface, automating repetitive tasks and freeing up mental space for more important work. The mobile experience is equally robust, with offline capabilities ensuring you remain productive even without internet connectivity. Security is paramount, with enterprise-grade encryption protecting your data and flexible permission controls governing team access. Regular updates introduce new features based on user feedback, ensuring TaskFlow evolves to meet changing productivity needs. Whether you're a solo entrepreneur managing multiple ventures, a student organizing academic responsibilities, or a large corporation coordinating complex initiatives, TaskFlow scales effortlessly to match your requirements while maintaining its signature ease of use that has made it the top choice for over half a million users worldwide who collectively complete millions of tasks each month through this powerful platform.",
+    "size": 80,
+    "reviews": 5300,
+    "ratingAvg": 5.0,
+    "downloads": 1100000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 400 },
+      { "name": "4 star", "count": 1200 },
+      { "name": "5 star", "count": 3500 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/BH8x2K3X/img15.jpg",
+    "title": "Spotify",
+    "companyName": "Skyline Labs",
+    "id": 3,
+    "description": "TaskFlow represents the pinnacle of modern task management solutions, meticulously engineered to transform how individuals and teams approach productivity in today's fast-paced digital landscape. This comprehensive application goes far beyond basic to-do lists, offering an intelligent ecosystem that adapts to your unique workflow while anticipating your needs through cutting-edge artificial intelligence. At its core, TaskFlow features an intuitive kanban-style interface that allows users to visualize their workflow across multiple customizable columns, making it perfect for everything from personal goal tracking to complex team projects. The AI-powered reminder system doesn't simply notify you about deadlines; it analyzes your working patterns, identifies optimal times for specific tasks, and suggests proactive adjustments to ensure you maintain peak productivity without burnout. Collaboration features are seamlessly integrated, allowing real-time editing, commenting, and file sharing that eliminates version control issues and streamlines communication. Advanced filtering and sorting capabilities let you organize tasks by priority, due date, project, or custom tags, while the smart search function can locate specific tasks across all your projects instantly. The application's analytics dashboard provides deep insights into your productivity trends, highlighting areas for improvement and celebrating your achievements. Integration capabilities extend to over 50 popular tools including Google Calendar, Slack, Microsoft Teams, and Dropbox, creating a centralized hub for all your work. Custom automation workflows can be created using a simple drag-and-drop interface, automating repetitive tasks and freeing up mental space for more important work. The mobile experience is equally robust, with offline capabilities ensuring you remain productive even without internet connectivity. Security is paramount, with enterprise-grade encryption protecting your data and flexible permission controls governing team access. Regular updates introduce new features based on user feedback, ensuring TaskFlow evolves to meet changing productivity needs. Whether you're a solo entrepreneur managing multiple ventures, a student organizing academic responsibilities, or a large corporation coordinating complex initiatives, TaskFlow scales effortlessly to match your requirements while maintaining its signature ease of use that has made it the top choice for over half a million users worldwide who collectively complete millions of tasks each month through this powerful platform.",
+    "size": 25,
+    "reviews": 2100,
+    "ratingAvg": 4.5,
+    "downloads": 300000,
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 250 },
+      { "name": "4 star", "count": 700 },
+      { "name": "5 star", "count": 990 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/yFjCGF6k/img16.jpg",
+    "title": "Visual Studio Code (VS Code)",
+    "companyName": "ActiveCore",
+    "id": 4,
+    "description":"TaskFlow represents the pinnacle of modern task management solutions, meticulously engineered to transform how individuals and teams approach productivity in today's fast-paced digital landscape. This comprehensive application goes far beyond basic to-do lists, offering an intelligent ecosystem that adapts to your unique workflow while anticipating your needs through cutting-edge artificial intelligence. At its core, TaskFlow features an intuitive kanban-style interface that allows users to visualize their workflow across multiple customizable columns, making it perfect for everything from personal goal tracking to complex team projects. The AI-powered reminder system doesn't simply notify you about deadlines; it analyzes your working patterns, identifies optimal times for specific tasks, and suggests proactive adjustments to ensure you maintain peak productivity without burnout. Collaboration features are seamlessly integrated, allowing real-time editing, commenting, and file sharing that eliminates version control issues and streamlines communication. Advanced filtering and sorting capabilities let you organize tasks by priority, due date, project, or custom tags, while the smart search function can locate specific tasks across all your projects instantly. The application's analytics dashboard provides deep insights into your productivity trends, highlighting areas for improvement and celebrating your achievements. Integration capabilities extend to over 50 popular tools including Google Calendar, Slack, Microsoft Teams, and Dropbox, creating a centralized hub for all your work. Custom automation workflows can be created using a simple drag-and-drop interface, automating repetitive tasks and freeing up mental space for more important work. The mobile experience is equally robust, with offline capabilities ensuring you remain productive even without internet connectivity. Security is paramount, with enterprise-grade encryption protecting your data and flexible permission controls governing team access. Regular updates introduce new features based on user feedback, ensuring TaskFlow evolves to meet changing productivity needs. Whether you're a solo entrepreneur managing multiple ventures, a student organizing academic responsibilities, or a large corporation coordinating complex initiatives, TaskFlow scales effortlessly to match your requirements while maintaining its signature ease of use that has made it the top choice for over half a million users worldwide who collectively complete millions of tasks each month through this powerful platform.",
+    "size": 65,
+    "reviews": 8700,
+    "ratingAvg": 4.7,
+    "downloads": 2300000,
+    "ratings": [
+      { "name": "1 star", "count": 250 },
+      { "name": "2 star", "count": 340 },
+      { "name": "3 star", "count": 600 },
+      { "name": "4 star", "count": 2200 },
+      { "name": "5 star", "count": 5300 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/N65gCvLW/img18.jpg",
+    "title": "Google Maps",
+    "companyName": "HomeChef Inc.",
+    "id": 5,
+    "description":  "TaskFlow represents the pinnacle of modern task management solutions, meticulously engineered to transform how individuals and teams approach productivity in today's fast-paced digital landscape. This comprehensive application goes far beyond basic to-do lists, offering an intelligent ecosystem that adapts to your unique workflow while anticipating your needs through cutting-edge artificial intelligence. At its core, TaskFlow features an intuitive kanban-style interface that allows users to visualize their workflow across multiple customizable columns, making it perfect for everything from personal goal tracking to complex team projects. The AI-powered reminder system doesn't simply notify you about deadlines; it analyzes your working patterns, identifies optimal times for specific tasks, and suggests proactive adjustments to ensure you maintain peak productivity without burnout. Collaboration features are seamlessly integrated, allowing real-time editing, commenting, and file sharing that eliminates version control issues and streamlines communication. Advanced filtering and sorting capabilities let you organize tasks by priority, due date, project, or custom tags, while the smart search function can locate specific tasks across all your projects instantly. The application's analytics dashboard provides deep insights into your productivity trends, highlighting areas for improvement and celebrating your achievements. Integration capabilities extend to over 50 popular tools including Google Calendar, Slack, Microsoft Teams, and Dropbox, creating a centralized hub for all your work. Custom automation workflows can be created using a simple drag-and-drop interface, automating repetitive tasks and freeing up mental space for more important work. The mobile experience is equally robust, with offline capabilities ensuring you remain productive even without internet connectivity. Security is paramount, with enterprise-grade encryption protecting your data and flexible permission controls governing team access. Regular updates introduce new features based on user feedback, ensuring TaskFlow evolves to meet changing productivity needs. Whether you're a solo entrepreneur managing multiple ventures, a student organizing academic responsibilities, or a large corporation coordinating complex initiatives, TaskFlow scales effortlessly to match your requirements while maintaining its signature ease of use that has made it the top choice for over half a million users worldwide who collectively complete millions of tasks each month through this powerful platform.",
+    "size": 55,
+    "reviews": 3100,
+    "ratingAvg": 4.3,
+    "downloads": 780000,
+    "ratings": [
+      { "name": "1 star", "count": 180 },
+      { "name": "2 star", "count": 250 },
+      { "name": "3 star", "count": 600 },
+      { "name": "4 star", "count": 1000 },
+      { "name": "5 star", "count": 1070 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/dwcPJmgn/img19.jpg",
+    "title": "Figma",
+    "companyName": "BrightVault",
+    "id": 6,
+    "description":  "TaskFlow represents the pinnacle of modern task management solutions, meticulously engineered to transform how individuals and teams approach productivity in today's fast-paced digital landscape. This comprehensive application goes far beyond basic to-do lists, offering an intelligent ecosystem that adapts to your unique workflow while anticipating your needs through cutting-edge artificial intelligence. At its core, TaskFlow features an intuitive kanban-style interface that allows users to visualize their workflow across multiple customizable columns, making it perfect for everything from personal goal tracking to complex team projects. The AI-powered reminder system doesn't simply notify you about deadlines; it analyzes your working patterns, identifies optimal times for specific tasks, and suggests proactive adjustments to ensure you maintain peak productivity without burnout. Collaboration features are seamlessly integrated, allowing real-time editing, commenting, and file sharing that eliminates version control issues and streamlines communication. Advanced filtering and sorting capabilities let you organize tasks by priority, due date, project, or custom tags, while the smart search function can locate specific tasks across all your projects instantly. The application's analytics dashboard provides deep insights into your productivity trends, highlighting areas for improvement and celebrating your achievements. Integration capabilities extend to over 50 popular tools including Google Calendar, Slack, Microsoft Teams, and Dropbox, creating a centralized hub for all your work. Custom automation workflows can be created using a simple drag-and-drop interface, automating repetitive tasks and freeing up mental space for more important work. The mobile experience is equally robust, with offline capabilities ensuring you remain productive even without internet connectivity. Security is paramount, with enterprise-grade encryption protecting your data and flexible permission controls governing team access. Regular updates introduce new features based on user feedback, ensuring TaskFlow evolves to meet changing productivity needs. Whether you're a solo entrepreneur managing multiple ventures, a student organizing academic responsibilities, or a large corporation coordinating complex initiatives, TaskFlow scales effortlessly to match your requirements while maintaining its signature ease of use that has made it the top choice for over half a million users worldwide who collectively complete millions of tasks each month through this powerful platform.",
+    "size": 60,
+    "reviews": 4900,
+    "ratingAvg": 4.6,
+    "downloads": 1250000,
+    "ratings": [
+      { "name": "1 star", "count": 140 },
+      { "name": "2 star", "count": 230 },
+      { "name": "3 star", "count": 500 },
+      { "name": "4 star", "count": 1200 },
+      { "name": "5 star", "count": 2830 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Jw5bDJ7c/img20.jpg",
+    "title": "Discord",
+    "companyName": "EduVerse",
+    "id": 7,
+    "description":  "TaskFlow represents the pinnacle of modern task management solutions, meticulously engineered to transform how individuals and teams approach productivity in today's fast-paced digital landscape. This comprehensive application goes far beyond basic to-do lists, offering an intelligent ecosystem that adapts to your unique workflow while anticipating your needs through cutting-edge artificial intelligence. At its core, TaskFlow features an intuitive kanban-style interface that allows users to visualize their workflow across multiple customizable columns, making it perfect for everything from personal goal tracking to complex team projects. The AI-powered reminder system doesn't simply notify you about deadlines; it analyzes your working patterns, identifies optimal times for specific tasks, and suggests proactive adjustments to ensure you maintain peak productivity without burnout. Collaboration features are seamlessly integrated, allowing real-time editing, commenting, and file sharing that eliminates version control issues and streamlines communication. Advanced filtering and sorting capabilities let you organize tasks by priority, due date, project, or custom tags, while the smart search function can locate specific tasks across all your projects instantly. The application's analytics dashboard provides deep insights into your productivity trends, highlighting areas for improvement and celebrating your achievements. Integration capabilities extend to over 50 popular tools including Google Calendar, Slack, Microsoft Teams, and Dropbox, creating a centralized hub for all your work. Custom automation workflows can be created using a simple drag-and-drop interface, automating repetitive tasks and freeing up mental space for more important work. The mobile experience is equally robust, with offline capabilities ensuring you remain productive even without internet connectivity. Security is paramount, with enterprise-grade encryption protecting your data and flexible permission controls governing team access. Regular updates introduce new features based on user feedback, ensuring TaskFlow evolves to meet changing productivity needs. Whether you're a solo entrepreneur managing multiple ventures, a student organizing academic responsibilities, or a large corporation coordinating complex initiatives, TaskFlow scales effortlessly to match your requirements while maintaining its signature ease of use that has made it the top choice for over half a million users worldwide who collectively complete millions of tasks each month through this powerful platform.",
+    "size": 75,
+    "reviews": 8900,
+    "ratingAvg": 4.8,
+    "downloads": 2600000,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 700 },
+      { "name": "4 star", "count": 1600 },
+      { "name": "5 star", "count": 5900 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/KxdPLVP8/img21.jpg",
+    "title": "Adobe Lightroom",
+    "companyName": "MelodySoft",
+    "id": 8,
+    "description":  "TaskFlow represents the pinnacle of modern task management solutions, meticulously engineered to transform how individuals and teams approach productivity in today's fast-paced digital landscape. This comprehensive application goes far beyond basic to-do lists, offering an intelligent ecosystem that adapts to your unique workflow while anticipating your needs through cutting-edge artificial intelligence. At its core, TaskFlow features an intuitive kanban-style interface that allows users to visualize their workflow across multiple customizable columns, making it perfect for everything from personal goal tracking to complex team projects. The AI-powered reminder system doesn't simply notify you about deadlines; it analyzes your working patterns, identifies optimal times for specific tasks, and suggests proactive adjustments to ensure you maintain peak productivity without burnout. Collaboration features are seamlessly integrated, allowing real-time editing, commenting, and file sharing that eliminates version control issues and streamlines communication. Advanced filtering and sorting capabilities let you organize tasks by priority, due date, project, or custom tags, while the smart search function can locate specific tasks across all your projects instantly. The application's analytics dashboard provides deep insights into your productivity trends, highlighting areas for improvement and celebrating your achievements. Integration capabilities extend to over 50 popular tools including Google Calendar, Slack, Microsoft Teams, and Dropbox, creating a centralized hub for all your work. Custom automation workflows can be created using a simple drag-and-drop interface, automating repetitive tasks and freeing up mental space for more important work. The mobile experience is equally robust, with offline capabilities ensuring you remain productive even without internet connectivity. Security is paramount, with enterprise-grade encryption protecting your data and flexible permission controls governing team access. Regular updates introduce new features based on user feedback, ensuring TaskFlow evolves to meet changing productivity needs. Whether you're a solo entrepreneur managing multiple ventures, a student organizing academic responsibilities, or a large corporation coordinating complex initiatives, TaskFlow scales effortlessly to match your requirements while maintaining its signature ease of use that has made it the top choice for over half a million users worldwide who collectively complete millions of tasks each month through this powerful platform.",
+    "size": 90,
+    "reviews": 12000,
+    "ratingAvg": 4.9,
+    "downloads": 5000000,
+    "ratings": [
+      { "name": "1 star", "count": 450 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 7450 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/9m6C9c9q/img24.jpg",
+    "title": "GitHub",
+    "companyName": "TravelNest",
+    "id": 9,
+    "description": "TaskFlow represents the pinnacle of modern task management solutions, meticulously engineered to transform how individuals and teams approach productivity in today's fast-paced digital landscape. This comprehensive application goes far beyond basic to-do lists, offering an intelligent ecosystem that adapts to your unique workflow while anticipating your needs through cutting-edge artificial intelligence. At its core, TaskFlow features an intuitive kanban-style interface that allows users to visualize their workflow across multiple customizable columns, making it perfect for everything from personal goal tracking to complex team projects. The AI-powered reminder system doesn't simply notify you about deadlines; it analyzes your working patterns, identifies optimal times for specific tasks, and suggests proactive adjustments to ensure you maintain peak productivity without burnout. Collaboration features are seamlessly integrated, allowing real-time editing, commenting, and file sharing that eliminates version control issues and streamlines communication. Advanced filtering and sorting capabilities let you organize tasks by priority, due date, project, or custom tags, while the smart search function can locate specific tasks across all your projects instantly. The application's analytics dashboard provides deep insights into your productivity trends, highlighting areas for improvement and celebrating your achievements. Integration capabilities extend to over 50 popular tools including Google Calendar, Slack, Microsoft Teams, and Dropbox, creating a centralized hub for all your work. Custom automation workflows can be created using a simple drag-and-drop interface, automating repetitive tasks and freeing up mental space for more important work. The mobile experience is equally robust, with offline capabilities ensuring you remain productive even without internet connectivity. Security is paramount, with enterprise-grade encryption protecting your data and flexible permission controls governing team access. Regular updates introduce new features based on user feedback, ensuring TaskFlow evolves to meet changing productivity needs. Whether you're a solo entrepreneur managing multiple ventures, a student organizing academic responsibilities, or a large corporation coordinating complex initiatives, TaskFlow scales effortlessly to match your requirements while maintaining its signature ease of use that has made it the top choice for over half a million users worldwide who collectively complete millions of tasks each month through this powerful platform.",
+    "size": 78,
+    "reviews": 4600,
+    "ratingAvg": 4.4,
+    "downloads": 980000,
+    "ratings": [
+      { "name": "1 star", "count": 210 },
+      { "name": "2 star", "count": 280 },
+      { "name": "3 star", "count": 500 },
+      { "name": "4 star", "count": 1200 },
+      { "name": "5 star", "count": 2410 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/KctJs45j/app1.jpg",
+    "title": "WeChat",
+    "companyName": "ReadZone",
+    "id": 10,
+    "description": "TaskFlow represents the pinnacle of modern task management solutions, meticulously engineered to transform how individuals and teams approach productivity in today's fast-paced digital landscape. This comprehensive application goes far beyond basic to-do lists, offering an intelligent ecosystem that adapts to your unique workflow while anticipating your needs through cutting-edge artificial intelligence. At its core, TaskFlow features an intuitive kanban-style interface that allows users to visualize their workflow across multiple customizable columns, making it perfect for everything from personal goal tracking to complex team projects. The AI-powered reminder system doesn't simply notify you about deadlines; it analyzes your working patterns, identifies optimal times for specific tasks, and suggests proactive adjustments to ensure you maintain peak productivity without burnout. Collaboration features are seamlessly integrated, allowing real-time editing, commenting, and file sharing that eliminates version control issues and streamlines communication. Advanced filtering and sorting capabilities let you organize tasks by priority, due date, project, or custom tags, while the smart search function can locate specific tasks across all your projects instantly. The application's analytics dashboard provides deep insights into your productivity trends, highlighting areas for improvement and celebrating your achievements. Integration capabilities extend to over 50 popular tools including Google Calendar, Slack, Microsoft Teams, and Dropbox, creating a centralized hub for all your work. Custom automation workflows can be created using a simple drag-and-drop interface, automating repetitive tasks and freeing up mental space for more important work. The mobile experience is equally robust, with offline capabilities ensuring you remain productive even without internet connectivity. Security is paramount, with enterprise-grade encryption protecting your data and flexible permission controls governing team access. Regular updates introduce new features based on user feedback, ensuring TaskFlow evolves to meet changing productivity needs. Whether you're a solo entrepreneur managing multiple ventures, a student organizing academic responsibilities, or a large corporation coordinating complex initiatives, TaskFlow scales effortlessly to match your requirements while maintaining its signature ease of use that has made it the top choice for over half a million users worldwide who collectively complete millions of tasks each month through this powerful platform.",
+    "size": 48,
+    "reviews": 3500,
+    "ratingAvg": 4.5,
+    "downloads": 720000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 500 },
+      { "name": "4 star", "count": 1000 },
+      { "name": "5 star", "count": 1700 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/ZRm5pcvq/img23.jpg",
+    "title": "Steam",
+    "companyName": "Calmify",
+    "id": 11,
+    "description":  "TaskFlow represents the pinnacle of modern task management solutions, meticulously engineered to transform how individuals and teams approach productivity in today's fast-paced digital landscape. This comprehensive application goes far beyond basic to-do lists, offering an intelligent ecosystem that adapts to your unique workflow while anticipating your needs through cutting-edge artificial intelligence. At its core, TaskFlow features an intuitive kanban-style interface that allows users to visualize their workflow across multiple customizable columns, making it perfect for everything from personal goal tracking to complex team projects. The AI-powered reminder system doesn't simply notify you about deadlines; it analyzes your working patterns, identifies optimal times for specific tasks, and suggests proactive adjustments to ensure you maintain peak productivity without burnout. Collaboration features are seamlessly integrated, allowing real-time editing, commenting, and file sharing that eliminates version control issues and streamlines communication. Advanced filtering and sorting capabilities let you organize tasks by priority, due date, project, or custom tags, while the smart search function can locate specific tasks across all your projects instantly. The application's analytics dashboard provides deep insights into your productivity trends, highlighting areas for improvement and celebrating your achievements. Integration capabilities extend to over 50 popular tools including Google Calendar, Slack, Microsoft Teams, and Dropbox, creating a centralized hub for all your work. Custom automation workflows can be created using a simple drag-and-drop interface, automating repetitive tasks and freeing up mental space for more important work. The mobile experience is equally robust, with offline capabilities ensuring you remain productive even without internet connectivity. Security is paramount, with enterprise-grade encryption protecting your data and flexible permission controls governing team access. Regular updates introduce new features based on user feedback, ensuring TaskFlow evolves to meet changing productivity needs. Whether you're a solo entrepreneur managing multiple ventures, a student organizing academic responsibilities, or a large corporation coordinating complex initiatives, TaskFlow scales effortlessly to match your requirements while maintaining its signature ease of use that has made it the top choice for over half a million users worldwide who collectively complete millions of tasks each month through this powerful platform.",
+    "size": 38,
+    "reviews": 8200,
+    "ratingAvg": 4.9,
+    "downloads": 2000000,
+    "ratings": [
+      { "name": "1 star", "count": 80 },
+      { "name": "2 star", "count": 130 },
+      { "name": "3 star", "count": 400 },
+      { "name": "4 star", "count": 1200 },
+      { "name": "5 star", "count": 6390 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/RTb8bFPM/img1.jpg",
+    "title": "Slack",
+    "companyName": "ClimateIQ",
+    "id": 12,
+    "description":  "TaskFlow represents the pinnacle of modern task management solutions, meticulously engineered to transform how individuals and teams approach productivity in today's fast-paced digital landscape. This comprehensive application goes far beyond basic to-do lists, offering an intelligent ecosystem that adapts to your unique workflow while anticipating your needs through cutting-edge artificial intelligence. At its core, TaskFlow features an intuitive kanban-style interface that allows users to visualize their workflow across multiple customizable columns, making it perfect for everything from personal goal tracking to complex team projects. The AI-powered reminder system doesn't simply notify you about deadlines; it analyzes your working patterns, identifies optimal times for specific tasks, and suggests proactive adjustments to ensure you maintain peak productivity without burnout. Collaboration features are seamlessly integrated, allowing real-time editing, commenting, and file sharing that eliminates version control issues and streamlines communication. Advanced filtering and sorting capabilities let you organize tasks by priority, due date, project, or custom tags, while the smart search function can locate specific tasks across all your projects instantly. The application's analytics dashboard provides deep insights into your productivity trends, highlighting areas for improvement and celebrating your achievements. Integration capabilities extend to over 50 popular tools including Google Calendar, Slack, Microsoft Teams, and Dropbox, creating a centralized hub for all your work. Custom automation workflows can be created using a simple drag-and-drop interface, automating repetitive tasks and freeing up mental space for more important work. The mobile experience is equally robust, with offline capabilities ensuring you remain productive even without internet connectivity. Security is paramount, with enterprise-grade encryption protecting your data and flexible permission controls governing team access. Regular updates introduce new features based on user feedback, ensuring TaskFlow evolves to meet changing productivity needs. Whether you're a solo entrepreneur managing multiple ventures, a student organizing academic responsibilities, or a large corporation coordinating complex initiatives, TaskFlow scales effortlessly to match your requirements while maintaining its signature ease of use that has made it the top choice for over half a million users worldwide who collectively complete millions of tasks each month through this powerful platform.",
+    "size": 40,
+    "reviews": 2500,
+    "ratingAvg": 4.2,
+    "downloads": 510000,
+    "ratings": [
+      { "name": "1 star", "count": 180 },
+      { "name": "2 star", "count": 250 },
+      { "name": "3 star", "count": 480 },
+      { "name": "4 star", "count": 900 },
+      { "name": "5 star", "count": 670 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/YBt0d6xj/img2.jpg",
+    "title": "ChatWave",
+    "companyName": "ComNet",
+    "id": 13,
+    "description":  "TaskFlow represents the pinnacle of modern task management solutions, meticulously engineered to transform how individuals and teams approach productivity in today's fast-paced digital landscape. This comprehensive application goes far beyond basic to-do lists, offering an intelligent ecosystem that adapts to your unique workflow while anticipating your needs through cutting-edge artificial intelligence. At its core, TaskFlow features an intuitive kanban-style interface that allows users to visualize their workflow across multiple customizable columns, making it perfect for everything from personal goal tracking to complex team projects. The AI-powered reminder system doesn't simply notify you about deadlines; it analyzes your working patterns, identifies optimal times for specific tasks, and suggests proactive adjustments to ensure you maintain peak productivity without burnout. Collaboration features are seamlessly integrated, allowing real-time editing, commenting, and file sharing that eliminates version control issues and streamlines communication. Advanced filtering and sorting capabilities let you organize tasks by priority, due date, project, or custom tags, while the smart search function can locate specific tasks across all your projects instantly. The application's analytics dashboard provides deep insights into your productivity trends, highlighting areas for improvement and celebrating your achievements. Integration capabilities extend to over 50 popular tools including Google Calendar, Slack, Microsoft Teams, and Dropbox, creating a centralized hub for all your work. Custom automation workflows can be created using a simple drag-and-drop interface, automating repetitive tasks and freeing up mental space for more important work. The mobile experience is equally robust, with offline capabilities ensuring you remain productive even without internet connectivity. Security is paramount, with enterprise-grade encryption protecting your data and flexible permission controls governing team access. Regular updates introduce new features based on user feedback, ensuring TaskFlow evolves to meet changing productivity needs. Whether you're a solo entrepreneur managing multiple ventures, a student organizing academic responsibilities, or a large corporation coordinating complex initiatives, TaskFlow scales effortlessly to match your requirements while maintaining its signature ease of use that has made it the top choice for over half a million users worldwide who collectively complete millions of tasks each month through this powerful platform.",
+    "size": 58,
+    "reviews": 15000,
+    "ratingAvg": 4.7,
+    "downloads": 6800000,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 3100 },
+      { "name": "5 star", "count": 9500 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/5WFgpjwW/img3.jpg",
+    "title": "WhatsApp",
+    "companyName": "eComify",
+    "id": 14,
+    "description": "TaskFlow represents the pinnacle of modern task management solutions, meticulously engineered to transform how individuals and teams approach productivity in today's fast-paced digital landscape. This comprehensive application goes far beyond basic to-do lists, offering an intelligent ecosystem that adapts to your unique workflow while anticipating your needs through cutting-edge artificial intelligence. At its core, TaskFlow features an intuitive kanban-style interface that allows users to visualize their workflow across multiple customizable columns, making it perfect for everything from personal goal tracking to complex team projects. The AI-powered reminder system doesn't simply notify you about deadlines; it analyzes your working patterns, identifies optimal times for specific tasks, and suggests proactive adjustments to ensure you maintain peak productivity without burnout. Collaboration features are seamlessly integrated, allowing real-time editing, commenting, and file sharing that eliminates version control issues and streamlines communication. Advanced filtering and sorting capabilities let you organize tasks by priority, due date, project, or custom tags, while the smart search function can locate specific tasks across all your projects instantly. The application's analytics dashboard provides deep insights into your productivity trends, highlighting areas for improvement and celebrating your achievements. Integration capabilities extend to over 50 popular tools including Google Calendar, Slack, Microsoft Teams, and Dropbox, creating a centralized hub for all your work. Custom automation workflows can be created using a simple drag-and-drop interface, automating repetitive tasks and freeing up mental space for more important work. The mobile experience is equally robust, with offline capabilities ensuring you remain productive even without internet connectivity. Security is paramount, with enterprise-grade encryption protecting your data and flexible permission controls governing team access. Regular updates introduce new features based on user feedback, ensuring TaskFlow evolves to meet changing productivity needs. Whether you're a solo entrepreneur managing multiple ventures, a student organizing academic responsibilities, or a large corporation coordinating complex initiatives, TaskFlow scales effortlessly to match your requirements while maintaining its signature ease of use that has made it the top choice for over half a million users worldwide who collectively complete millions of tasks each month through this powerful platform.",
+    "size": 60,
+    "reviews": 9400,
+    "ratingAvg": 4.6,
+    "downloads": 3500000,
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 2400 },
+      { "name": "5 star", "count": 5100 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/nNncf6Xt/img7.png",
+    "title": "Telegram",
+    "companyName": "VisionPlay",
+    "id": 15,
+    "description":  "TaskFlow represents the pinnacle of modern task management solutions, meticulously engineered to transform how individuals and teams approach productivity in today's fast-paced digital landscape. This comprehensive application goes far beyond basic to-do lists, offering an intelligent ecosystem that adapts to your unique workflow while anticipating your needs through cutting-edge artificial intelligence. At its core, TaskFlow features an intuitive kanban-style interface that allows users to visualize their workflow across multiple customizable columns, making it perfect for everything from personal goal tracking to complex team projects. The AI-powered reminder system doesn't simply notify you about deadlines; it analyzes your working patterns, identifies optimal times for specific tasks, and suggests proactive adjustments to ensure you maintain peak productivity without burnout. Collaboration features are seamlessly integrated, allowing real-time editing, commenting, and file sharing that eliminates version control issues and streamlines communication. Advanced filtering and sorting capabilities let you organize tasks by priority, due date, project, or custom tags, while the smart search function can locate specific tasks across all your projects instantly. The application's analytics dashboard provides deep insights into your productivity trends, highlighting areas for improvement and celebrating your achievements. Integration capabilities extend to over 50 popular tools including Google Calendar, Slack, Microsoft Teams, and Dropbox, creating a centralized hub for all your work. Custom automation workflows can be created using a simple drag-and-drop interface, automating repetitive tasks and freeing up mental space for more important work. The mobile experience is equally robust, with offline capabilities ensuring you remain productive even without internet connectivity. Security is paramount, with enterprise-grade encryption protecting your data and flexible permission controls governing team access. Regular updates introduce new features based on user feedback, ensuring TaskFlow evolves to meet changing productivity needs. Whether you're a solo entrepreneur managing multiple ventures, a student organizing academic responsibilities, or a large corporation coordinating complex initiatives, TaskFlow scales effortlessly to match your requirements while maintaining its signature ease of use that has made it the top choice for over half a million users worldwide who collectively complete millions of tasks each month through this powerful platform.",
+    "size": 95,
+    "reviews": 20000,
+    "ratingAvg": 4.9,
+    "downloads": 7800000,
+    "ratings": [
+      { "name": "1 star", "count": 700 },
+      { "name": "2 star", "count": 1000 },
+      { "name": "3 star", "count": 1400 },
+      { "name": "4 star", "count": 3000 },
+      { "name": "5 star", "count": 14900 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/n84QyxKf/img8.jpg",
+    "title": "X",
+    "companyName": "AutoCore",
+    "id": 16,
+    "description":  "TaskFlow represents the pinnacle of modern task management solutions, meticulously engineered to transform how individuals and teams approach productivity in today's fast-paced digital landscape. This comprehensive application goes far beyond basic to-do lists, offering an intelligent ecosystem that adapts to your unique workflow while anticipating your needs through cutting-edge artificial intelligence. At its core, TaskFlow features an intuitive kanban-style interface that allows users to visualize their workflow across multiple customizable columns, making it perfect for everything from personal goal tracking to complex team projects. The AI-powered reminder system doesn't simply notify you about deadlines; it analyzes your working patterns, identifies optimal times for specific tasks, and suggests proactive adjustments to ensure you maintain peak productivity without burnout. Collaboration features are seamlessly integrated, allowing real-time editing, commenting, and file sharing that eliminates version control issues and streamlines communication. Advanced filtering and sorting capabilities let you organize tasks by priority, due date, project, or custom tags, while the smart search function can locate specific tasks across all your projects instantly. The application's analytics dashboard provides deep insights into your productivity trends, highlighting areas for improvement and celebrating your achievements. Integration capabilities extend to over 50 popular tools including Google Calendar, Slack, Microsoft Teams, and Dropbox, creating a centralized hub for all your work. Custom automation workflows can be created using a simple drag-and-drop interface, automating repetitive tasks and freeing up mental space for more important work. The mobile experience is equally robust, with offline capabilities ensuring you remain productive even without internet connectivity. Security is paramount, with enterprise-grade encryption protecting your data and flexible permission controls governing team access. Regular updates introduce new features based on user feedback, ensuring TaskFlow evolves to meet changing productivity needs. Whether you're a solo entrepreneur managing multiple ventures, a student organizing academic responsibilities, or a large corporation coordinating complex initiatives, TaskFlow scales effortlessly to match your requirements while maintaining its signature ease of use that has made it the top choice for over half a million users worldwide who collectively complete millions of tasks each month through this powerful platform.",
+    "size": 70,
+    "reviews": 2300,
+    "ratingAvg": 4.4,
+    "downloads": 410000,
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 190 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 800 },
+      { "name": "5 star", "count": 890 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/TD6Z2VXb/img9.jpg",
+    "title": "WhatsApp",
+    "companyName": "ChainLinkers",
+    "id": 17,
+    "description":  "TaskFlow represents the pinnacle of modern task management solutions, meticulously engineered to transform how individuals and teams approach productivity in today's fast-paced digital landscape. This comprehensive application goes far beyond basic to-do lists, offering an intelligent ecosystem that adapts to your unique workflow while anticipating your needs through cutting-edge artificial intelligence. At its core, TaskFlow features an intuitive kanban-style interface that allows users to visualize their workflow across multiple customizable columns, making it perfect for everything from personal goal tracking to complex team projects. The AI-powered reminder system doesn't simply notify you about deadlines; it analyzes your working patterns, identifies optimal times for specific tasks, and suggests proactive adjustments to ensure you maintain peak productivity without burnout. Collaboration features are seamlessly integrated, allowing real-time editing, commenting, and file sharing that eliminates version control issues and streamlines communication. Advanced filtering and sorting capabilities let you organize tasks by priority, due date, project, or custom tags, while the smart search function can locate specific tasks across all your projects instantly. The application's analytics dashboard provides deep insights into your productivity trends, highlighting areas for improvement and celebrating your achievements. Integration capabilities extend to over 50 popular tools including Google Calendar, Slack, Microsoft Teams, and Dropbox, creating a centralized hub for all your work. Custom automation workflows can be created using a simple drag-and-drop interface, automating repetitive tasks and freeing up mental space for more important work. The mobile experience is equally robust, with offline capabilities ensuring you remain productive even without internet connectivity. Security is paramount, with enterprise-grade encryption protecting your data and flexible permission controls governing team access. Regular updates introduce new features based on user feedback, ensuring TaskFlow evolves to meet changing productivity needs. Whether you're a solo entrepreneur managing multiple ventures, a student organizing academic responsibilities, or a large corporation coordinating complex initiatives, TaskFlow scales effortlessly to match your requirements while maintaining its signature ease of use that has made it the top choice for over half a million users worldwide who collectively complete millions of tasks each month through this powerful platform.",
+    "size": 64,
+    "reviews": 7800,
+    "ratingAvg": 4.6,
+    "downloads": 2700000,
+    "ratings": [
+      { "name": "1 star", "count": 240 },
+      { "name": "2 star", "count": 380 },
+      { "name": "3 star", "count": 700 },
+      { "name": "4 star", "count": 1900 },
+      { "name": "5 star", "count": 4580 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/LdgVvR4t/img11.jpg",
+    "title": "Skype",
+    "companyName": "Scanify Tech",
+    "id": 18,
+    "description":  "TaskFlow represents the pinnacle of modern task management solutions, meticulously engineered to transform how individuals and teams approach productivity in today's fast-paced digital landscape. This comprehensive application goes far beyond basic to-do lists, offering an intelligent ecosystem that adapts to your unique workflow while anticipating your needs through cutting-edge artificial intelligence. At its core, TaskFlow features an intuitive kanban-style interface that allows users to visualize their workflow across multiple customizable columns, making it perfect for everything from personal goal tracking to complex team projects. The AI-powered reminder system doesn't simply notify you about deadlines; it analyzes your working patterns, identifies optimal times for specific tasks, and suggests proactive adjustments to ensure you maintain peak productivity without burnout. Collaboration features are seamlessly integrated, allowing real-time editing, commenting, and file sharing that eliminates version control issues and streamlines communication. Advanced filtering and sorting capabilities let you organize tasks by priority, due date, project, or custom tags, while the smart search function can locate specific tasks across all your projects instantly. The application's analytics dashboard provides deep insights into your productivity trends, highlighting areas for improvement and celebrating your achievements. Integration capabilities extend to over 50 popular tools including Google Calendar, Slack, Microsoft Teams, and Dropbox, creating a centralized hub for all your work. Custom automation workflows can be created using a simple drag-and-drop interface, automating repetitive tasks and freeing up mental space for more important work. The mobile experience is equally robust, with offline capabilities ensuring you remain productive even without internet connectivity. Security is paramount, with enterprise-grade encryption protecting your data and flexible permission controls governing team access. Regular updates introduce new features based on user feedback, ensuring TaskFlow evolves to meet changing productivity needs. Whether you're a solo entrepreneur managing multiple ventures, a student organizing academic responsibilities, or a large corporation coordinating complex initiatives, TaskFlow scales effortlessly to match your requirements while maintaining its signature ease of use that has made it the top choice for over half a million users worldwide who collectively complete millions of tasks each month through this powerful platform.",
+    "size": 33,
+    "reviews": 4200,
+    "ratingAvg": 4.5,
+    "downloads": 1300000,
+    "ratings": [
+      { "name": "1 star", "count": 180 },
+      { "name": "2 star", "count": 240 },
+      { "name": "3 star", "count": 550 },
+      { "name": "4 star", "count": 1000 },
+      { "name": "5 star", "count": 2230 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/5x9DbQWy/img10.jpg",
+    "title": "instagram",
+    "companyName": "MeetUpHub",
+    "id": 19,
+    "description":  "TaskFlow represents the pinnacle of modern task management solutions, meticulously engineered to transform how individuals and teams approach productivity in today's fast-paced digital landscape. This comprehensive application goes far beyond basic to-do lists, offering an intelligent ecosystem that adapts to your unique workflow while anticipating your needs through cutting-edge artificial intelligence. At its core, TaskFlow features an intuitive kanban-style interface that allows users to visualize their workflow across multiple customizable columns, making it perfect for everything from personal goal tracking to complex team projects. The AI-powered reminder system doesn't simply notify you about deadlines; it analyzes your working patterns, identifies optimal times for specific tasks, and suggests proactive adjustments to ensure you maintain peak productivity without burnout. Collaboration features are seamlessly integrated, allowing real-time editing, commenting, and file sharing that eliminates version control issues and streamlines communication. Advanced filtering and sorting capabilities let you organize tasks by priority, due date, project, or custom tags, while the smart search function can locate specific tasks across all your projects instantly. The application's analytics dashboard provides deep insights into your productivity trends, highlighting areas for improvement and celebrating your achievements. Integration capabilities extend to over 50 popular tools including Google Calendar, Slack, Microsoft Teams, and Dropbox, creating a centralized hub for all your work. Custom automation workflows can be created using a simple drag-and-drop interface, automating repetitive tasks and freeing up mental space for more important work. The mobile experience is equally robust, with offline capabilities ensuring you remain productive even without internet connectivity. Security is paramount, with enterprise-grade encryption protecting your data and flexible permission controls governing team access. Regular updates introduce new features based on user feedback, ensuring TaskFlow evolves to meet changing productivity needs. Whether you're a solo entrepreneur managing multiple ventures, a student organizing academic responsibilities, or a large corporation coordinating complex initiatives, TaskFlow scales effortlessly to match your requirements while maintaining its signature ease of use that has made it the top choice for over half a million users worldwide who collectively complete millions of tasks each month through this powerful platform.",
+    "size": 47,
+    "reviews": 3500,
+    "ratingAvg": 4.3,
+    "downloads": 640000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 260 },
+      { "name": "3 star", "count": 450 },
+      { "name": "4 star", "count": 1000 },
+      { "name": "5 star", "count": 1590 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/LdgVvR4t/img11.jpg",
+    "title": "Skype",
+    "companyName": "HomeSync",
+    "id": 20,
+    "description":  "TaskFlow represents the pinnacle of modern task management solutions, meticulously engineered to transform how individuals and teams approach productivity in today's fast-paced digital landscape. This comprehensive application goes far beyond basic to-do lists, offering an intelligent ecosystem that adapts to your unique workflow while anticipating your needs through cutting-edge artificial intelligence. At its core, TaskFlow features an intuitive kanban-style interface that allows users to visualize their workflow across multiple customizable columns, making it perfect for everything from personal goal tracking to complex team projects. The AI-powered reminder system doesn't simply notify you about deadlines; it analyzes your working patterns, identifies optimal times for specific tasks, and suggests proactive adjustments to ensure you maintain peak productivity without burnout. Collaboration features are seamlessly integrated, allowing real-time editing, commenting, and file sharing that eliminates version control issues and streamlines communication. Advanced filtering and sorting capabilities let you organize tasks by priority, due date, project, or custom tags, while the smart search function can locate specific tasks across all your projects instantly. The application's analytics dashboard provides deep insights into your productivity trends, highlighting areas for improvement and celebrating your achievements. Integration capabilities extend to over 50 popular tools including Google Calendar, Slack, Microsoft Teams, and Dropbox, creating a centralized hub for all your work. Custom automation workflows can be created using a simple drag-and-drop interface, automating repetitive tasks and freeing up mental space for more important work. The mobile experience is equally robust, with offline capabilities ensuring you remain productive even without internet connectivity. Security is paramount, with enterprise-grade encryption protecting your data and flexible permission controls governing team access. Regular updates introduce new features based on user feedback, ensuring TaskFlow evolves to meet changing productivity needs. Whether you're a solo entrepreneur managing multiple ventures, a student organizing academic responsibilities, or a large corporation coordinating complex initiatives, TaskFlow scales effortlessly to match your requirements while maintaining its signature ease of use that has made it the top choice for over half a million users worldwide who collectively complete millions of tasks each month through this powerful platform.",
+    "size": 50,
+    "reviews": 6100,
+    "ratingAvg": 4.7,
+    "downloads": 1900000,
+    "ratings": [
+      { "name": "1 star", "count": 220 },
+      { "name": "2 star", "count": 340 },
+      { "name": "3 star", "count": 600 },
+      { "name": "4 star", "count": 1400 },
+      { "name": "5 star", "count": 3540 }
+    ]
+  }
+]

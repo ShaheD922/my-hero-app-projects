@@ -6,9 +6,9 @@ const ErrorPage = () => {
     <>
       <div className="flex items-center justify-center">
         <img src={notFount} alt="" />
-      </div> 
+      </div>
       <div>
-        <p className="text-5xl font-bold py-5">Sorry,this page is not found!</p>
+        <p className="text-5xl font-bold py-5">Oops, page not found!</p>
         <p className="text-xl text-gray-600 pb-5">
           The page you are looking for is not available.
         </p>

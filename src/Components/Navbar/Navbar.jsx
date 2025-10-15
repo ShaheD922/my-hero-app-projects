@@ -49,7 +49,7 @@ const Navbar = () => {
         </div>
         <div className="navbar-end">
           <Link
-            to={"https://github.com/ShaheD922"}
+            to={"https://github.com/antnose"}
             className="bg-violet-700 hover:bg-violet-600 text-white font-bold py-2 px-3 rounded-xl flex items-center shadow-lg transition duration-200  justify-between"
             target="blank"
           >
@@ -76,3 +76,4 @@ const Navbar = () => {
 };
 
 export default Navbar;
+//
