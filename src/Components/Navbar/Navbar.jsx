@@ -10,7 +10,7 @@ const Navbar = () => {
     </>
   );
   return (
-    <div className="bg-base-100 shadow-sm">
+    <div className="bg-base-100 shadow-sm ">
       <div className="navbar  container mx-auto">
         <div className="navbar-start">
           <div className="dropdown">
@@ -49,7 +49,7 @@ const Navbar = () => {
         </div>
         <div className="navbar-end">
           <Link
-            to={"https://github.com/antnose"}
+            to={"https://github.com/ShaheD922"}
             className="bg-violet-700 hover:bg-violet-600 text-white font-bold py-2 px-3 rounded-xl flex items-center shadow-lg transition duration-200  justify-between"
             target="blank"
           >
@@ -76,4 +76,3 @@ const Navbar = () => {
 };
 
 export default Navbar;
-//

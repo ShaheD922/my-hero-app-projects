@@ -2,7 +2,7 @@ import InstalledAppsCard from "../InstalledAppsCard/InstalledAppsCard";
 
 const InstalledAppCard = ({ filteredDt, handleRemoveDtFromLocalStor }) => {
   return (
-    <div className="grid gap-y-5">
+    <div className="grid gap-y-5 ">
       {filteredDt.map((filterDt) => (
         <InstalledAppsCard
           key={filterDt.id}

@@ -91,11 +91,11 @@ const AppDetails = () => {
         <LoadingPage />
       ) : (
         <>
-          <div className="card card-side ">
+          <div className="card card-side  ">
             <figure>
               <img className="w-96" src={specificData.image} alt="Movie" />
             </figure>
-            <div className="card-body ">
+            <div className="card-body  ">
               <div>
                 <h2 className="card-title text-3xl pb-3">
                   {" "}
@@ -145,7 +145,7 @@ const AppDetails = () => {
                 <button
                   disabled={install}
                   onClick={() => handleInstall()}
-                  className="btn btn-success text-white text-xl"
+                  className="btn btn-success text-white text-xl font-bold"
                 >
                   {install
                     ? "Installed"

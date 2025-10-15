@@ -2,7 +2,7 @@ import downloadImg from "../../assets/icon-downloads.png";
 import ratingImg from "../../assets/icon-ratings.png";
 
 const InstalledAppsCard = ({ filterDt, handleRemoveDtFromLocalStor }) => {
-  // SHow download number in understandable way start
+  
   const formatDownloads = (num) => {
     if (!num) return "0";
     return new Intl.NumberFormat("en", {
@@ -10,14 +10,14 @@ const InstalledAppsCard = ({ filterDt, handleRemoveDtFromLocalStor }) => {
       compactDisplay: "short",
     }).format(num);
   };
-  // SHow download number in understandable way End
+  
   return (
-    <div className="card card-side bg-base-100 shadow-sm flex items-center justify-center">
+    <div className="border border-gray-300 card card-side bg-base-100 shadow-sm flex items-center justify-center rounded-2xl hover:scale-105 transition ease-in-out">
       <figure>
         <img
           className="h-28 w-28 rounded-2xl p-3"
           src={filterDt.image}
-          alt="Movie"
+          alt=""
         />
       </figure>
 
@@ -43,7 +43,7 @@ const InstalledAppsCard = ({ filterDt, handleRemoveDtFromLocalStor }) => {
         <div className="justify-self-end-safe">
           <button
             onClick={() => handleRemoveDtFromLocalStor(filterDt.id)}
-            className="btn btn-success text-white"
+            className="btn btn-active btn-success text-white"
           >
             Uninstall
           </button>
