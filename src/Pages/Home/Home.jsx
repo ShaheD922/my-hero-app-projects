@@ -13,9 +13,7 @@ const Home = () => {
   const data = useLoaderData();
   const { loading, setLoading } = useContext(LoadingContext);
   const [homePageData, setHomePageData] = useState([]);
-
-  // Load 8 data
-
+// data load
   useEffect(() => {
     const fetchDatas = async () => {
       setLoading(true);
@@ -41,8 +39,9 @@ const Home = () => {
 
   return (
     <div>
+      {/* title */}
       <div>
-        {/* Title Section Start */}
+
         <h1 className="text-7xl font-bold text-[#212121]">
           We Build <br />
           <motion.span
@@ -73,23 +72,23 @@ const Home = () => {
         <div className="flex text-center items-center justify-center gap-5 pb-5">
           <Link
             className="btn bg-white border-gray-300"
-            to={"https://play.google.com/store/games?hl=en&pli=1"}
+            to=""
             target="blank"
           >
             <img className="w-4" src={playStoreLogo} alt="" /> Google Play Store
           </Link>
           <Link
             className="btn bg-white border-gray-300"
-            to={"https://www.apple.com/store"}
+            to=""
             target="blank"
           >
             <img className="w-5" src={appleStoreLogo} alt="" /> App Store
           </Link>
         </div>
 
-        {/* Title Section End */}
+       {/* banner part Start */}
 
-        {/* banner section Start */}
+       
         <div className="flex flex-col items-center mt-10  text-center justify-center px-0">
           <img src={heroPng} alt="" />
           <div className="bg-purple-600 w-full">
@@ -122,7 +121,7 @@ const Home = () => {
             </div>
           </div>
         </div>
-        {/* Banner Section End */}
+       
         <TrendingApps data={data} homePageData={homePageData} />
       </div>
     </div>
