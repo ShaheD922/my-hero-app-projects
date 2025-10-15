@@ -41,7 +41,7 @@ const InstalledApps = () => {
     }
   }, [data]);
 
-  // Handle Remove Data from local storage
+  // Remove Data from local storage
   const handleRemoveDtFromLocalStor = (id) => {
     removeFromStoreDb(id);
     setFilteredDt((prev) => prev.filter((rmId) => rmId.id !== id));
@@ -100,3 +100,4 @@ const InstalledApps = () => {
 };
 
 export default InstalledApps;
+//
