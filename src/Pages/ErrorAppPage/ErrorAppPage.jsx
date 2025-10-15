@@ -10,11 +10,12 @@ const ErrorAppPage = () => {
         <img src={errorApp} alt="" />
       </div>
       <div>
-        <p className="text-5xl font-bold py-5">OPPS!! APP NOT FOUND</p>
+        <p className="text-5xl font-bold py-5"> Sorry Apps not found</p>
         <p className="text-xl text-gray-600 pb-5">
           The App you are requesting is not found on our system. please try
           another apps
         </p>
+        
         <Link
           onClick={() => navigate(-1)}
           className="bg-violet-700 hover:bg-violet-600 text-white font-bold py- px-4 rounded shadow-lg transition duration-200  justify-between"

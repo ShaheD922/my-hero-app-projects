@@ -10,7 +10,7 @@ const ErrorPage = () => {
       <div>
         <p className="text-5xl font-bold py-5">Oops, page not found!</p>
         <p className="text-xl text-gray-600 pb-5">
-          The page you are looking for is not available.
+          This page isn’t available right now.
         </p>
         <Link
           onClick={() => Navigate(-1)}
