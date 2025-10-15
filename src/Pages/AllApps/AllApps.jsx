@@ -37,7 +37,7 @@ const AllApps = () => {
       {loading ? (
         <LoadingPage />
       ) : (
-        
+
         <div>
           <h1 className="text-6xl font-bold py-5">Our All Applications</h1>
           <p className="text-gray-500">
@@ -94,3 +94,4 @@ const AllApps = () => {
 };
 
 export default AllApps;
+//
