@@ -57,3 +57,4 @@ const InstalledAppsCard = ({ filterDt, handleRemoveDtFromLocalStor }) => {
 };
 
 export default InstalledAppsCard;
+//
