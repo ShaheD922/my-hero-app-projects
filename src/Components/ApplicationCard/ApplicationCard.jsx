@@ -44,4 +44,3 @@ const ApplicationCard = ({ data }) => {
 export default ApplicationCard;
 
 
-// 
