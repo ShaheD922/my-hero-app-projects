@@ -25,3 +25,20 @@ Its fast  and responsive, build using **Vite**,**Tailwind Css**,**daisyUi**,**Re
 ⚡ **Optimized Build** – Ultra-fast dev server with Vite  
 📱 **Responsive Design** – Looks great on every device  
 
+
+
+## 🗂️ Folder Structure
+src/
+├── assets/ # Static images and resources
+├── Components/
+│ ├── ApplicationCard/ # App preview card
+│ ├── TrendingApps/ # Trending app section
+│ └── ReactCharts/ # Rating & downloads visualization
+├── CustomContext/
+│ └── LoadingContext.jsx # Global loading state
+├── Routes/
+│ └── Routes.jsx # App routes setup
+├── index.css # Tailwind & global styles
+├── main.jsx # React entry point
+└── App.jsx # Root component
+
