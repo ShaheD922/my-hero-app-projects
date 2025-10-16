@@ -72,14 +72,14 @@ const Home = () => {
         <div className="flex text-center items-center justify-center gap-5 pb-5">
           <Link
             className="btn bg-white border-gray-300"
-            to=""
+            to={"https://play.google.com/store/games?hl=en&pli=1"}
             target="blank"
           >
             <img className="w-4" src={playStoreLogo} alt="" /> Google Play Store
           </Link>
           <Link
             className="btn bg-white border-gray-300"
-            to=""
+          to={"https://www.apple.com/store"}
             target="blank"
           >
             <img className="w-5" src={appleStoreLogo} alt="" /> App Store
@@ -129,3 +129,5 @@ const Home = () => {
 };
 
 export default Home;
+
+//
