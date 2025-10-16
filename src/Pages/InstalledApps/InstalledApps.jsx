@@ -19,7 +19,7 @@ const InstalledApps = () => {
 
   useEffect(() => {
     const fetchData = async () => {
-      setLoading(true);
+      setLoading(false);
       try {
         const res = await axios.get("/appsData.json");
         const appsData = res.data;

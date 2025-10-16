@@ -18,6 +18,8 @@ const AppDetails = () => {
 
   const { loading, setLoading } = useContext(LoadingContext);
 
+
+
   useEffect(() => {
     const allData = async () => {
       setLoading(true);
@@ -40,9 +42,9 @@ const AppDetails = () => {
     allData();
   }, [id]);
 
-  // Install Button 
 
-  
+
+
   useEffect(() => {
     const firstFunc = async () => {
       setLsData(...lsData, getStoredApp());
@@ -52,6 +54,8 @@ const AppDetails = () => {
     };
     firstFunc();
   }, [id]);
+
+
 
   const handleInstall = () => {
     setLsData(...lsData, getStoredApp());
@@ -86,78 +90,93 @@ const AppDetails = () => {
   const description = specificData.description;
 
   return (
-    <div >
+    <div className="px-4 sm:px-6 lg:px-12 py-8">
       {loading ? (
-        <LoadingPage />
+        <LoadingPage />                                                                                          
       ) : (
         <>
-          <div className="card card-side  ">
-            <figure>
-              <img className="w-96" src={specificData.image} alt="Movie" />
-            </figure>
-            <div className="card-body  ">
-              <div>
-                <h2 className="card-title text-3xl pb-3">
-                  {" "}
-                  {specificData.title}{" "}
-                </h2>
-                <p className="text-start text-xl text-gray-500">
-                  Developed by :{" "}
-                  <span className="text-purple-600 font-semibold">
-                    {specificData.companyName}
-                  </span>
-                </p>
-                <div className="divider"></div>
-              </div>
+          <div className="bg-base-100 shadow-sm rounded-2xl flex flex-col md:flex-row items-center md:items-start gap-6 md:gap-10 p-5">
+            <div className="w-full md:w-1/3 flex justify-center">
+              <img
+                className="w-52 sm:w-64 md:w-80 lg:w-96 rounded-2xl object-cover hover:scale-105 transition ease-in-out cursor-pointer"
+                src={specificData.image}
+                alt="App"
+              />
+            </div>
 
-              <div className="stats  lg:stats-horizontal shadow   grid grid-cols-3">
-                <div className="stat">
-                  <div className="stat-title mx-auto">
-                    <img src={downloadImg} alt="" />
-                  </div>
-                  <div className="text-center">Downloads</div>
-                  <div className="stat-desc font-bold text-5xl text-center">
+            <div className="w-full md:w-2/3 text-center md:text-left">
+              <h2 className="text-2xl sm:text-3xl font-bold mb-2">
+                {specificData.title}
+              </h2>
+              <p className="text-gray-500 text-base sm:text-lg">
+                Developed by:{" "}
+                <span className="text-purple-600 font-semibold">
+                  {specificData.companyName}
+                </span>
+              </p>
+
+              <div className="divider"></div>
+              {/* review */}
+              <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 sm:gap-6 mt-6">
+                <div className="border border-gray-300 rounded-xl py-4 shadow text-center bg-white hover:scale-105 transition ease-in-out cursor-pointer">
+                  <img
+                    src={downloadImg}
+                    alt=""
+                    className="mx-auto w-7 sm:w-10 mb-1"
+                  />
+                  <h4 className="font-semibold">Downloads</h4>
+                  <p className="font-bold text-3xl sm:text-4xl">
                     {formatDownloads(specificData.downloads)}
-                  </div>
+                  </p>
                 </div>
 
-                <div className="stat">
-                  <div className="stat-title mx-auto">
-                    <img src={ratingImg} alt="" />
-                  </div>
-                  <div className="text-center">Average Ratings</div>
-                  <div className="stat-desc font-bold text-5xl text-center">
+                <div className="border border-gray-300 rounded-xl py-4 shadow text-center bg-white hover:scale-105 transition ease-in-out cursor-pointer">
+                  <img
+                    src={ratingImg}
+                    alt=""
+                    className="mx-auto w-7 sm:w-10 mb-1"
+                  />
+                  <h4 className="font-semibold">Average Ratings</h4>
+                  <p className="font-bold text-3xl sm:text-4xl">
                     {formatDownloads(specificData.ratingAvg)}
-                  </div>
+                  </p>
                 </div>
 
-                <div className="stat">
-                  <div className="stat-title mx-auto">
-                    <img src={reviewsImg} alt="" />
-                  </div>
-                  <div className="text-center">Downloads</div>
-                  <div className="stat-desc font-bold text-5xl text-center">
+                <div className="border border-gray-300 rounded-xl py-4 shadow text-center bg-white hover:scale-105 transition ease-in-out cursor-pointer">
+                  <img
+                    src={reviewsImg}
+                    alt=""
+                    className="mx-auto w-7 sm:w-10 mb-1"
+                  />
+                  <h4 className="font-semibold">Reviews</h4>
+                  <p className="font-bold text-3xl sm:text-4xl">
                     {formatDownloads(specificData.reviews)}
-                  </div>
+                  </p>
                 </div>
               </div>
-              <div className="card-actions mt-7">
+              {/* install btn */}
+              <div className="mt-8 flex justify-center md:justify-start">
                 <button
                   disabled={install}
                   onClick={() => handleInstall()}
-                  className="btn btn-success text-white text-xl font-bold"
+                  className="btn btn-success text-white font-bold text-lg sm:text-xl w-full sm:w-auto"
                 >
                   {install
                     ? "Installed"
-                    : `Install Now (${specificData.size} MB) `}
+                    : `Install Now (${specificData.size} MB)`}
                 </button>
               </div>
             </div>
           </div>
-          <div className="divider py-24"></div>
+
+          <div className="divider my-12"></div>
+
+          {/* Chart Section */}
+
           <ReactCharts ratings={ratings} description={description} />
         </>
       )}
+
     </div>
   );
 };
